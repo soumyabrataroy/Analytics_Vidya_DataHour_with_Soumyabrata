@@ -6,3 +6,4 @@ In this Data hour I talked about:<br>
 3. Understanding importance of different machine learning models and feature importance<br>
 
 ## Here is the recording of the session: https://www.youtube.com/watch?v=woBMeIdXBvg&t=1s
+## Myntra dataset used for the project: https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset
